@@ -1,4 +1,4 @@
-# NBASeasonPrediction_MLProject
+# NBASeasonPredictions - Machine Learning Project
 ## Technologies Used:
 * Machine Learning SkiLearn Regression Classifier Model
 * Decision Tree Statistical Model
